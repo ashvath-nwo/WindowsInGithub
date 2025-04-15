@@ -31,6 +31,6 @@ download AnyDesk in both PC And Your Mobile/PC for smooth experience because it 
 #
 When u cant start it paste this,
 sudo su
-cd docker11
+cd windowslatest
 docker-compose -f compose.yml up
 Hope that helped
