@@ -9,7 +9,7 @@ Then go to github codespaces and create one.
 <a name=windows-installatiom-command></a>
 - `Windows Installer for Github Codespaces` :
 ```bash
-wget https://raw.githubusercontent.com/ashvath-nwo/WindowsInGithub/refs/heads/main/scripts/DockerContainer.sh && chmod +x DockerContainer.sh && ./DockerContainer.sh && rm -f Dockercontainer.sh
+curl -o DockerContainer.sh https://raw.githubusercontent.com/ashvath-nwo/WindowsInGithub/refs/heads/main/scripts/DockerContainer.sh && chmod +x DockerContainer.sh && ./DockerContainer.sh && rm -f Dockercontainer.sh
 ```
 #
 To view the PC Press the Three dots and click Ports.
@@ -26,4 +26,14 @@ When u cant start it paste this,
 sudo su
 #
 docker-compose -f compose.yml up
+#
+You can even use on a real Linux machine.
+# Supported Linux Distros
+Ubuntu
+#
+Debian
+#
+Make sure your Linux PC supportes KVM
+
+
 Hope that helped
