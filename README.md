@@ -28,12 +28,17 @@ sudo su
 docker-compose -f compose.yml up
 #
 You can even use on a real Linux machine.
+# 
+If you use Github Codespaces for it, remember audio will not work on it.
 # Supported Linux Distros
 Ubuntu
 #
 Debian
 #
 Make sure your Linux PC supportes KVM
-
-
+# 
+if u want to learn about KVM to to the website given below
+#
+https://www.redhat.com/en/topics/virtualization/what-is-KVM
+#
 Hope that helped
