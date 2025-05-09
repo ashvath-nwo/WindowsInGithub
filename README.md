@@ -39,6 +39,6 @@ Make sure your Linux PC supportes KVM
 # 
 if u want to learn about KVM to to the website given below
 #
-https://www.redhat.com/en/topics/virtualization/what-is-KVM
+https://bit.ly/RedHat-what-is-KVM
 #
 Hope that helped
